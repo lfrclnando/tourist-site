@@ -63,7 +63,7 @@ span {
 
 h1 {
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 2.25rem;
   line-height: 3rem;
 
   margin-top: .5rem;
@@ -75,9 +75,115 @@ figure > img {
   border-radius: 28px;
 }
 
+figure > figcaption {
+  color: var(--text-secondary-color);
+
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.3rem;
+  text-align: center;
+
+  margin-top: 1.5rem;
+}
+
+.line {
+  background-color: var(--border-primary);
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+}
+
+h2 {
+  color: var(--text-primary-color);
+
+  font-weight: bold;
+  font-size: 2rem;
+  line-height: 3rem;
+
+  margin: .125rem 0;
+}
+
+p, .content-card {
+  color: var(--text-secondary-color);
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.3rem;
+}
+
+.container-card {
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+}
+
 article > img {
   width: 100%;
   height: 350px;
   object-fit: cover;
   border-radius: 28px;
 }
+
+div > h3 {
+  margin-top: 20px;
+}
+
+h3 {
+  color: var(--text-primary-color);
+
+  font-weight: bold;
+  font-size: 1.75rem;
+  line-height: 3rem;
+
+  margin: .125rem 0;
+}
+
+ul {
+  margin-bottom: 3rem;
+  color: var(--accent-blue);
+}
+
+ul li {
+  margin-left: 1.12rem;
+}
+
+ul li::marker {
+  color: var(--accent-blue);
+}
+
+.list {
+  margin-bottom: 2.5rem;
+  color: black;
+}
+
+li, .married {
+  color: var(--accent-purple);
+}
+li, .families {
+  color: var(--accent-pink);
+}
+li, .budget {
+  color: var(--accent-orange);
+}
+
+.before-footer {
+  color: var(--text-secondary-color);
+
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.3rem;
+  text-align: center;
+}
+
+footer {
+  color: var(--text-secondary-color);
+
+  margin-top: 4rem;
+  margin-bottom: 3rem;
+
+  font-size: 1rem;
+  text-align: center;
+
+}
+
