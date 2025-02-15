@@ -37,7 +37,6 @@ body {
   /* Background Page */
   background-color: #29292E;
   padding: 5rem;
-
 }
 
 #page {
@@ -45,6 +44,7 @@ body {
   width: 1280px;
 
   padding: 5.5rem 5rem 0.3rem 5rem;
+  margin-inline: auto;
 }
 
 .container > section {
@@ -186,4 +186,5 @@ footer {
   text-align: center;
 
 }
+
 
