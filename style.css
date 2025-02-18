@@ -336,6 +336,10 @@ footer > img {
     height: 100px;
     border-radius: 16px;
   }
+
+  footer {
+    margin-inline: 1rem;
+  }
 }
 
 @media (max-width: 320px) {
@@ -363,5 +367,9 @@ footer > img {
   article > img {
     height: 100px;
     border-radius: 16px;
+  }
+
+  footer {
+    margin-inline: 2rem;
   }
 } 
