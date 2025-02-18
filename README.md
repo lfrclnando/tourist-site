@@ -74,7 +74,7 @@ Access the completed project by clicking on the link below: <br>
 Acesse o projeto finalizado online clicando no link abaixo: <br>
 Consulte el proyecto finalizado en línea haciendo clic en el link a bajo:
 
-[clique aqui...](https://nodejs.org/)
+[clique aqui...](https://lfrclnando.github.io/tourist-site/)
 
 ---
 
