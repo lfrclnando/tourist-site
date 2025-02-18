@@ -16,16 +16,16 @@
 ---
 
 ## 🗂️ Table of Contents | Índice | Indice
-1. [About the Project | Sobre o Projeto | Sobre el Proyecto](#about-the-project)
-2. [Key Features | Caraterísticas Principais | Características Principales](#key-features)
-3. [Technologies | Tecnologias | Tecnologías](#technologies)
-4. [Layout | Estrutura | Estructura ](#layout)
-7. [License | Licença | Licencia](#license)
-8. [Authors and Acknowledgments | Autores e Agradecimentos | Autores y Agradecimientos](#authors-and-acknowledgments)
+1. [About the Project | Sobre o Projeto | Sobre el Proyecto](#about-the-project--sobre-o-projeto--sobre-el-proyecto)
+2. [Key Features | Caraterísticas Principais | Características Principales](#key-features--características-principais--características-principales)
+3. [Technologies | Tecnologias | Tecnologías](#technologies--tecnologias--tecnologías)
+4. [Layout | Estrutura | Estructura ](#layout--estrutura--estructura)
+7. [License | Licença | Licencia](#license--licença--licencia)
+8. [Authors and Acknowledgments | Autores e Agradecimentos | Autores y Agradecimientos](#authors-and-acknowledgments--autores-e-agradecimentos--autores-y-agradecimientos)
 
 ---
 
-## 📃 About the Project | Sobre o Projeto | Sobre o Proyecto
+## 📃 About the Project | Sobre o Projeto | Sobre el Proyecto
 
 *Tourist Site** it's a website that brings together travel locations for tourists to spend their holidays and have a relaxing time with their families and friends.
 The site consists of photos of the location and short, concise texts about the city or region to be shown to the user. <br><br>
